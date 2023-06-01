@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Ayush Mhetre.
-- 🕸 Frontend Web Developer (ReactJS)
+- 🕸 Frontend Web Developer (ReactJS, NextJS)
+- 💼 Ex-Intern @ Salt.pe
+- 💼 Ex-Intern @ PrishaPolicy
 - 👀 I’m interested in coding in Python, creating beautiful websites and playing video games.
-- 🌟 5-Star Coder in Python at HackerRank.
 - 🌱 I’m currently studying Computer Science (second year).
 - 📫 Reach out to me at mhetreayush1719@gmail.com.
 <!---
