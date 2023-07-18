@@ -2,7 +2,7 @@
 - 🕸 Frontend Web Developer (ReactJS, NextJS)
 - 💼 Ex-Intern @ Salt.pe
 - 💼 Ex-Intern @ PrishaPolicy
-- 🌱 I’m currently studying Computer Science (second year).
+- 🌱 I’m currently studying Computer Science.
 - 📫 Reach out to me at mhetreayush1719@gmail.com.
 <!---
 mhetreayush/mhetreayush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
