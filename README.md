@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ayush Mhetre.
 - 🕸 Frontend Web Developer (ReactJS, NextJS)
+- 🛠️ Intern @ Devfolio.co
 - 💼 Ex-Intern @ Salt.pe
 - 💼 Ex-Intern @ PrishaPolicy
 - 🌱 I’m currently studying Computer Science.
