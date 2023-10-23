@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayush Mhetre.
-- 🕸 Frontend Web Developer (ReactJS, NextJS)
+- 🕸 Frontend Web Developer
 - 🌐 Website: [https://ayushm.vercel.app](https://ayushm.vercel.app)
 - 🛠️ Intern @ [Devfolio.co](https://devfolio.co)
 - 💼 Ex-Intern @ [Salt.pe](https://salt.pe)
