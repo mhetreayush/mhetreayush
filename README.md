@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush Mhetre.
 - 🕸 Frontend Web Developer
-- 🌐 Website: [https://ayushm.vercel.app](https://ayushm.vercel.app)
+- 🌐 Website: [https://ayushm.in](https://ayushm.in)
 - 🛠️ Intern at [Devfolio.co](https://devfolio.co)
 - 💼 Former intern at [Salt.pe](https://salt.pe) and [PrishaPolicy](https://www.prishapolicy.com)
 - 🌱 Currently pursuing a B.Tech in Computer Science at VIT, Vellore.
